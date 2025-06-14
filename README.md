@@ -23,8 +23,8 @@ seperate directories and auto.run them. 3 seperate Windows Registry Keys will al
 5 ad-windows pop up alongside a calculator app and the 3 other auto.run instances. NOTE: The downloaded adware have similar functions to main
 adware.exe just without the calculator app.
 
-This will create a semi-immortal state, where even if you delete one adware.exe the others will redownload it back. Even if Windows Registry
-Key is deleted, it root app aka the adware.exe is not deleted it will re-establish itself back into the registry.
+This will create a semi-immortal state, where even if you delete one adware.exe the others will redownload it back. While Windows Registry
+Key being deleted stops it from running in startup, if the root app aka the adware.exe is not deleted it will re-establish itself back into the registry.
 
 # *Windows Registry Locations:*
 - Computer\HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run
