@@ -30,7 +30,7 @@ Key is deleted, it root app aka the adware.exe is not deleted it will re-establi
 - Computer\HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run
 
 # *Downloaded paths:*
-- C:\Users\(YOUR_USERNAME)\Pictures\Screenshots
-- C:\Users\(YOUR_USERNAME)\Saved Games
-- C:\Users\(YOUR_USERNAME)\Favourites
+- C:\Users\ (YOUR_USERNAME) \Pictures\Screenshots
+- C:\Users\ (YOUR_USERNAME) \Saved Games
+- C:\Users\ (YOUR_USERNAME) \Favourites
 
