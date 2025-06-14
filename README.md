@@ -26,11 +26,11 @@ adware.exe just without the calculator app.
 This will create a semi-immortal state, where even if you delete one adware.exe the others will redownload it back. Even if Windows Registry
 Key is deleted, it root app aka the adware.exe is not deleted it will re-establish itself back into the registry.
 
-# **Windows Registry Locations:**
+# *Windows Registry Locations:*
 Computer\HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run
 
-# **Downloaded paths:**
-C:\Users\(YOUR_USERNAME)\Pictures\Screenshots
-C:\Users\(YOUR_USERNAME)\Saved Games
-C:\Users\(YOUR_USERNAME)\Favourites
+# *Downloaded paths:*
+C:\Users\(YOUR_USERNAME)\Pictures\Screenshots\n
+C:\Users\(YOUR_USERNAME)\Saved Games\n
+C:\Users\(YOUR_USERNAME)\Favourites\n
 
