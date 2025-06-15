@@ -8,14 +8,17 @@ Tampines Meridian Junior College to make this adware for them.
 - Functions are generic
 - No rootkits function
 - Code breaks if internet is off (Semi-Immortality traits)
-- Persistance is generic, set at generic locations
+- Persistence is generic, set at generic locations
 - May run into errors due to multiple QApplication instances
 
 ## **Changelog**
 14/06/2025:
 + Semi-Immortal traits
 + Calculator App launches from the 1st app
-+ Maintain persistance through Windows Registry Key
++ Slight improvement to persistence in Windows Registry Key
++ Now spawns Ads indefinitely
++ Spawns additional 3 adware.exe in 3 different locations
++ Spawns 3 different instances startup with different names
 
 ## **Functions**
 When the app is clicked, there will be a buffer before adwindows pop up. A download process will run, which will download 3 adware.exe into 3 
