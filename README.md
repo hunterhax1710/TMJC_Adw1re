@@ -1,5 +1,5 @@
 # 	**TMJC_Adw1re**
-A simple adware project that I decide to give it a try as a way to practice my coding skills and understanding. No I was not threatened by
+A simple windows adware project that I decide to give it a try as a way to practice my coding skills and understanding. No I was not threatened by
 Tampines Meridian Junior College to make this adware for them.
 
 # **Weaknesses**
