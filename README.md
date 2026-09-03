@@ -4,7 +4,7 @@ Tampines Meridian Junior College to make this adware for them.
 
 # **Weaknesses**
 - Can be detected by default windows 11 defender if you scan the app
-- Has no ofuscation (Too LAZY to use PYARMOR to ofuscate)
+- Has no ofuscation 
 - Functions are generic
 - No rootkits function
 - Code breaks if internet is off (Semi-Immortality traits)
@@ -17,8 +17,8 @@ Tampines Meridian Junior College to make this adware for them.
 + Calculator App launches from the 1st app
 + Slight improvement to persistence in Windows Registry Key
 + Now spawns Ads indefinitely
-+ Spawns additional 3 adware.exe in 3 different locations
-+ Spawns 3 different instances startup with different names
++ Spawns additional 3 adware.exe in 3 different locations (Redundant)
++ Spawns 3 different instances startup with different names (Redundant)
 
 ## **Functions**
 When the app is clicked, there will be a buffer before adwindows pop up. A download process will run, which will download 3 adware.exe into 3 
@@ -36,4 +36,6 @@ Key being deleted stops it from running in startup, if the root app aka the adwa
 - C:\Users\ (YOUR_USERNAME) \Pictures\Screenshots
 - C:\Users\ (YOUR_USERNAME) \Saved Games
 - C:\Users\ (YOUR_USERNAME) \Favourites
+
+# Currently discontinued
 
